@@ -122,7 +122,7 @@ gmaClientDirectorReport.setup = function(app) {
 	                // `success` == false
 	                log(req, 'gmaReports failed');
 	                logDump(req, data);
-	                AD.Comm.Service.sendError(req, res, {});
+	                AD.Comm.Service.sendError(req, res, { errorMSG: "Unable to get the list of your reports from GMA" });
 	                return;
 	            }
 	        })

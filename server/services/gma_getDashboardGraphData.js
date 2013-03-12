@@ -116,7 +116,7 @@ gmaMatrixDashboardGraphData.setup = function(app) {
             if (measurementIDs.length == 0) {
                 logDump(req, "The requested GMA node has no measurements compatible with the Dashboard");
                 AD.Comm.Service.sendError(req, res, {
-                    message: "This node has no measurements that can be used with the Dashboard."
+                    errorMSG: "This node has no measurements that can be used with the Dashboard."
                 }, 200);
                 return;
             }
