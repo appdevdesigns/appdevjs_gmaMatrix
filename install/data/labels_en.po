@@ -1,0 +1,104 @@
+
+#. #########################################
+#. Labels for module: gmaClient
+#. Source language: en
+#. Target language: en
+#. #########################################
+
+
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [Power of the Holy Spirit]
+msgid "Power of the Holy Spirit"
+msgstr "Power of the Holy Spirit"
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [FAITH ACTIONS]
+msgid "FAITH ACTIONS"
+msgstr "FAITH ACTIONS"
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [Primarily Done By...]
+msgid "Primarily Done By..."
+msgstr "Primarily Done By..."
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [FRUITS]
+msgid "FRUITS"
+msgstr "FRUITS"
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [QUESTIONS]
+msgid "QUESTIONS"
+msgstr "QUESTIONS"
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [OUTCOME]
+msgid "OUTCOME"
+msgstr "OUTCOME"
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [WIN]
+msgid "WIN"
+msgstr "WIN"
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [BUILD]
+msgid "BUILD"
+msgstr "BUILD"
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [SEND]
+msgid "SEND"
+msgstr "SEND"
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [Extra]
+msgid "Extra"
+msgstr "Extra"
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [loading from GMA...]
+msgid "loading from GMA..."
+msgstr "loading from GMA..."
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [Select Report]
+msgid "Select Report"
+msgstr "Select Report"
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [Data submitted]
+msgid "Data submitted to GMA. If you like you can still make changes and submit them again."
+msgstr "Data submitted to GMA. If you like you can still make changes and submit them again."
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [Resubmit]
+msgid "Resubmit"
+msgstr "Resubmit"
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [Select different date]
+msgid "Use the button below to select a different report"
+msgstr "Use the button below to select a different report"
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [Reselect]
+msgid "Reselect"
+msgstr "Reselect"

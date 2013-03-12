@@ -1,0 +1,102 @@
+/*
+
+  This is the custom CSS for the GMA Matrix graphs page.
+  CSS from other sources like Bootstrap and jQuery-UI also apply but
+  this should take precedence.
+
+*/
+
+body {
+    padding: 60px 0 40px;
+}
+
+#dummy-loading-indicator {
+    position: absolute;
+    top: 200px;
+    left: 45%;
+    display: block;
+    border-radius: 11px;
+    background-color: #333;
+    padding: 1em;
+}
+
+#content {
+    padding: 0 1em;
+}
+
+    div.gmaChart {
+        text-align: center;
+        float: left;
+    }
+    
+    div.gmaChart figure {
+        height: 200px;
+        width: 300px;
+    }
+
+    button#reset {
+        display: none;
+        position: fixed;
+        top: 10px;
+        right: 10px;
+    }
+
+table {
+    border-collapse: collapse;
+    border: none;
+}
+table th {
+    padding: 1em;
+    font-size: 1.4em;
+    font-weight: bold;
+    border: none;
+}
+table thead th {
+    padding: .5em 1em;
+    vertical-align: top;
+}
+table tbody th {
+    vertical-align: middle;
+}
+table td {
+    padding: 1em;
+    border: none;
+}
+td#col-questions {
+    vertical-align: top;
+}
+td#col-questions .content {
+
+}
+td#col-questions .filler {
+    height: 30em;
+}
+.subtitle {
+    font-size: .7em;
+    font-weight: normal;
+    display: block;
+    padding: 0;
+}
+
+.popover h1,
+.popover h2,
+.popover h3,
+.popover h4 {
+    margin: 0;
+}
+
+div.loading {
+    float: right;
+    display: none;
+}
+
+#node-selector .sub-panel {
+    display: none;
+}
+
+#choose-measurements .measurement-item-template {
+    display: none;
+}
+#choose-measurements .measurement-item {
+    display: none;
+}

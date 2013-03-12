@@ -1,0 +1,181 @@
+/*
+
+  This is the custom CSS for the Movement Matrix.
+  CSS from other sources like Bootstrap and jQuery-UI also apply but
+  this should take precedence.
+
+*/
+
+#dummy-loading-indicator {
+    position: absolute;
+    top: 200px;
+    left: 45%;
+    display: block;
+    border-radius: 11px;
+    background-color: #333;
+    padding: 1em;
+}
+
+body {
+    padding-top: 60px;  
+    padding-bottom: 40px;  
+}
+table {
+    border-collapse: collapse;
+    border: none;
+}
+table th {
+    padding: 1em;
+    font-size: 1.4em;
+    font-weight: bold;
+    border: none;
+}
+table thead th {
+    padding: .5em 1em;
+    vertical-align: top;
+}
+table tbody th {
+    vertical-align: middle;
+}
+table td {
+    padding: 1em;
+    border: none;
+}
+td#col-questions {
+    vertical-align: top;
+}
+td#col-questions .content {
+
+}
+td#col-questions .filler {
+    height: 30em;
+}
+.subtitle {
+    font-size: .7em;
+    font-weight: normal;
+    display: block;
+    padding: 0;
+}
+
+.navbar h1 {
+    margin: 0;
+    text-shadow: 1px 1px 2px #555555;
+}
+.navbar .reset {
+    float: right;
+    padding: 5px;
+    margin: 5px 1em;
+    border-radius: 8px;
+    background: white;
+    cursor: pointer;
+    display: none;
+    
+}
+.navbar-fixed-bottom .navbar-inner {
+    min-height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.question-bubble {
+    padding: 0 0 1em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+.question-bubble h3 {
+    text-align: center;
+    font-size: 1.1em;
+    box-shadow: none;
+    text-shadow: none;
+    border-radius: 4px 4px 0 0;
+    line-height: 200%;
+    margin: 0 0 1em;
+}
+.question-bubble .question {
+    padding: .2em .8em;
+}
+.question-bubble .question p {
+    text-align: center;
+    padding-bottom: .5em;
+    margin: 0;
+}
+.question-bubble fieldset {
+    width: 90%;
+    margin: 0 auto .5em;
+    text-align: center;
+}
+.question-bubble input {
+    cursor: text;
+}
+.question-bubble fieldset button {
+    margin-left: .3em;
+}
+.definition {
+    padding: 1em;
+    display: none;
+}
+
+.bubble-container {
+}
+#col-questions .bubble-container {
+    position: fixed;
+    width: 21%;
+}
+#col-questions .definition {
+    display: block;
+    margin-top: -2em;
+}
+#col-questions .definition h3 {
+    margin: 1em 0 .5em;
+}
+#col-questions .definition dd,
+.popover-content dd {
+    margin-bottom: .5em;
+}
+#col-questions .submitting {
+    display: none;
+    text-align: center;
+    padding: 3em;
+    position: fixed;
+    font-size: 1.2em;
+}
+#col-questions .submit {
+    text-align: center;
+    padding: 3em;
+    position: fixed;
+    font-size: 1.2em;
+}
+
+#prayer-faith .question-bubble {
+    display: none;
+}
+#outcome-results {
+    display: none;
+}
+#outcome-results > div {
+    margin-bottom: 2em;
+}
+#outcome-results h4 {
+    color: #ff9900;
+}
+#outcome-results h3 {
+    display: none;
+}
+
+#extra-extra .bubble-container {
+    position: static;
+    width: 25em;
+    margin: .5em;
+    float: left;
+}
+
+.popover h1,
+.popover h2,
+.popover h3,
+.popover h4 {
+    margin: 0;
+}
+
+div.loading {
+    float: right;
+    display: none;
+}

@@ -1,0 +1,146 @@
+<div id="dummy-loading-indicator">
+    <!-- this indicator is to give the user something to look at while
+         the page is initially loading -->
+    <img src="/theme/default/images/loading.gif" />
+</div>
+
+    <div class="navbar navbar-fixed-top">  
+      <div class="navbar-inner">  
+        <div class="row-fluid"> 
+          <div class="span4">
+            <div id="language-switcher">
+            <!-- placeholder -->
+            </div>
+          </div>  
+          <div class="span7">
+            <h1 id="foo"><%- data.labels.getLabel('[Power of the Holy Spirit]') %></h1>
+          </div>
+          
+          <div class="reset">
+            <i class="icon-fast-backward"></i>
+          </div>
+
+        </div>  
+      </div>  
+    </div>  
+    
+    <!-- This is the matrix grid table -->
+    <table width="100%">
+      <thead>
+        <tr class="row-header">
+            <th width="8%"></th>
+            <th width="23%">
+                <%- data.labels.getLabel('[FAITH ACTIONS]') %>
+                <span class="subtitle"><%- data.labels.getLabel('[Primarily Done By...]') %></span>
+            </th>
+            <th width="23%"><%- data.labels.getLabel('[FRUITS]') %></th>
+            <th width="23%"id="outcome-heading"><%- data.labels.getLabel('[OUTCOME]') %></th>
+            <th width="23%">
+                <!-- <span class="questions"><%- data.labels.getLabel('[QUESTIONS]') %></span> -->
+            </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="row-win">
+            <th><%- data.labels.getLabel('[WIN]') %></th>
+            <td id="win-faith"></td>
+            <td id="win-fruits"></td>
+            <td id="outcome-outcome" rowspan="3"></td>
+            <td id="col-questions" rowspan="3">
+                <div class="content"></div>
+                <div class="submitting">
+                    <img src="/theme/default/images/loading.gif" />
+                    <i><%- data.labels.getLabel('[loading from GMA...]') %></i>
+                </div>
+                <div class="submit">
+                    <!-- <p><%- data.labels.getLabel('[Data submitted]') %></p> -->
+                    <button class="btn" id="submit"><%- data.labels.getLabel('[Submit]') %></button>
+                    
+                    <hr />
+                    
+                    <p><%- data.labels.getLabel('[Select different date]') %></p>
+                    <form method="GET" action="">
+                    <button type="submit" class="btn" id="reselect"><%- data.labels.getLabel('[Reselect]') %></button>
+                    </form>
+                </div>
+                <div class="filler"></div>
+            </td>
+        </tr>
+        <tr class="row-build">
+            <th><%- data.labels.getLabel('[BUILD]') %></th>
+            <td id="build-faith"></td>
+            <td id="build-fruits"></td>
+            <!-- td#col-outcome continued -->
+            <!-- td#col-questions continued -->
+        </tr>
+        <tr class="row-send">
+            <th><%- data.labels.getLabel('[SEND]') %></th>
+            <td id="send-faith"></td>
+            <td id="send-fruits"></td>
+            <!-- td#col-outcome continued -->
+            <!-- td#col-questions continued -->
+        </tr>
+
+        <tr>
+            <!-- this is a spacer row -->
+            <td colspan="5">&nbsp;</td>
+        </tr>
+
+        <tr class="row-extra">
+            <th><%- data.labels.getLabel('[Extra]') %></th>
+            <td id="extra-extra" colspan="3"></td>
+        </tr>
+      </tbody>
+    </table>
+    
+      <div class="navbar navbar-fixed-bottom">  
+          <div class="navbar-inner"> 
+             <div class="row-fluid" id="prayer-faith">
+                <div class="span4" align="left" id="prayer-buttons">
+                <!-- placeholder -->
+                </div>
+                <div class="span4" align="center" style="margin-top: 5px">
+                    <h1 id="prayer-title">
+                    <!-- placeholder -->
+                    </h1>
+                </div>
+              </div>
+          </div>
+      </div>
+
+
+
+    <div id="outcome-results">
+    <!--
+    -->
+    </div>
+
+
+<!-- report selection dialog box -->
+<div class="modal" id="report-selector" style="display:none" role="dialog">
+    <div class="modal-header">
+        <div class="loading">
+            <img src="/theme/default/images/loading.gif" />
+            <i><%- data.labels.getLabel('[loading from GMA...]') %></i>
+        </div>
+        <h3><%- data.labels.getLabel('[Select Report]') %></h3>
+    </div>
+    <div class="modal-body">
+        <input type="text" id="reports-date" />
+        <button class="btn"><i class="icon-ok"></i></button>
+        
+        <hr />
+        
+        <select id="reports-list">
+            <option value="">--</option>
+        </select>
+        
+        <hr/>
+        
+        <select id="mcc-list">
+            <option value="">--</option>
+        </select>
+    </div>
+</div>
+
+

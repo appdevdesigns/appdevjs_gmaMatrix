@@ -1,0 +1,104 @@
+
+#. #########################################
+#. Labels for module: gmaClient
+#. Source language: en
+#. Target language: ko
+#. #########################################
+
+
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [Power of the Holy Spirit]
+msgid "Power of the Holy Spirit"
+msgstr "[ko] Power of the Holy Spirit"
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [FAITH ACTIONS]
+msgid "FAITH ACTIONS"
+msgstr "[ko] FAITH ACTIONS"
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [Primarily Done By...]
+msgid "Primarily Done By..."
+msgstr "[ko] Primarily Done By..."
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [FRUITS]
+msgid "FRUITS"
+msgstr "[ko] FRUITS"
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [QUESTIONS]
+msgid "QUESTIONS"
+msgstr "[ko] QUESTIONS"
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [OUTCOME]
+msgid "OUTCOME"
+msgstr "[ko] OUTCOME"
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [WIN]
+msgid "WIN"
+msgstr "[ko] WIN"
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [BUILD]
+msgid "BUILD"
+msgstr "[ko] BUILD"
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [SEND]
+msgid "SEND"
+msgstr "[ko] SEND"
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [Extra]
+msgid "Extra"
+msgstr "[ko] Extra"
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [loading from GMA...]
+msgid "loading from GMA..."
+msgstr "[ko] loading from GMA..."
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [Select Report]
+msgid "Select Report"
+msgstr "[ko] Select Report"
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [Data submitted]
+msgid "[ko] Data submitted to GMA. If you like you can still make changes and submit them again."
+msgstr "[ko] Data submitted to GMA. If you like you can still make changes and submit them again."
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [Resubmit]
+msgid "[ko] Resubmit"
+msgstr "[ko] Resubmit"
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [Select different date]
+msgid "[ko] Use the button below to select a different report"
+msgstr "[ko] Use the button below to select a different report"
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [Reselect]
+msgid "[ko] Reselect"
+msgstr "[ko] Reselect"

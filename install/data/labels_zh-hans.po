@@ -1,0 +1,104 @@
+
+#. #########################################
+#. Labels for module: gmaClient
+#. Source language: en
+#. Target language: zh-hans
+#. #########################################
+
+
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [Power of the Holy Spirit]
+msgid "Power of the Holy Spirit"
+msgstr "[zh-hans] Power of the Holy Spirit"
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [FAITH ACTIONS]
+msgid "FAITH ACTIONS"
+msgstr "[zh-hans] FAITH ACTIONS"
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [Primarily Done By...]
+msgid "Primarily Done By..."
+msgstr "[zh-hans] Primarily Done By..."
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [FRUITS]
+msgid "FRUITS"
+msgstr "[zh-hans] FRUITS"
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [QUESTIONS]
+msgid "QUESTIONS"
+msgstr "[zh-hans] QUESTIONS"
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [OUTCOME]
+msgid "OUTCOME"
+msgstr "[zh-hans] OUTCOME"
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [WIN]
+msgid "WIN"
+msgstr "[zh-hans] WIN"
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [BUILD]
+msgid "BUILD"
+msgstr "[zh-hans] BUILD"
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [SEND]
+msgid "SEND"
+msgstr "[zh-hans] SEND"
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [Extra]
+msgid "Extra"
+msgstr "[zh-hans] Extra"
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [loading from GMA...]
+msgid "loading from GMA..."
+msgstr "[zh-hans] loading from GMA..."
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [Select Report]
+msgid "Select Report"
+msgstr "[zh-hans] Select Report"
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [Data submitted]
+msgid "[zh-hans] Data submitted to GMA. If you like you can still make changes and submit them again."
+msgstr "[zh-hans] Data submitted to GMA. If you like you can still make changes and submit them again."
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [Resubmit]
+msgid "[zh-hans] Resubmit"
+msgstr "[zh-hans] Resubmit"
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [Select different date]
+msgid "[zh-hans] Use the button below to select a different report"
+msgstr "[zh-hans] Use the button below to select a different report"
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [Reselect]
+msgid "[zh-hans] Reselect"
+msgstr "[zh-hans] Reselect"

@@ -1,0 +1,80 @@
+.double-graph-widget {
+    border: 1px solid black;
+    background: white;
+    padding: 0;
+    width: 270px;
+    margin: 0 auto;
+}
+
+/* Widget title bar */
+.double-graph-widget h3 {
+    display: block;
+    text-align: center;
+    padding: 3px;
+    margin: 0;
+    border: 1px solid black;
+}
+
+.double-graph-widget table {
+    border-collapse: collapse;
+    border: none;
+    width: 100%;
+}
+.double-graph-widget table tr.template-row {
+    display: none;
+}
+.double-graph-widget table td {
+    padding: 3px;
+    border: none;
+}
+
+.double-graph-widget .graph-space {
+    position: relative;
+}
+
+/* Title text of individual mini-graphs */
+.double-graph-widget .graph-space h5 {
+    /* position is absolute within the parent .graph-space */
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.double-graph-widget .graph-space .final-value {
+    /* position is absolute within the parent .graph-space */
+    position: absolute;
+    top: 20px;
+    left: 180px;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.double-graph-widget figure {
+    width: 200px;
+    height: 80px;
+    margin: 0;
+}
+
+.double-graph-widget .graph-total {
+    font-wight: bold;
+    text-align: right;
+    vertical-align: center;
+    margin-right: 3px;
+}
+
+.double-graph-widget .grand-total {
+    border-top: solid 1px black;
+}
+
+.double-graph-widget .graph-ratio {
+    padding: 3px 3em;
+    text-align: center;
+}

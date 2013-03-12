@@ -1,0 +1,97 @@
+<div id="dummy-loading-indicator">
+    <!-- this indicator is to give the user something to look at while
+         the page is initially loading -->
+    <img src="/theme/default/images/loading.gif" />
+</div>
+
+<div id="language-switcher"></div>
+
+<div>
+    <h1><%- data.labels.getLabel('[GMA Dashboard]') %></h1>
+    <a href="/page/gmaMatrix/matrix"><%- data.labels.getLabel('[Data Entry Page]') %></a>
+    <a href="/page/gmaMatrix/graphs"><%- data.labels.getLabel('[Graphs]') %></a>
+</div>
+
+<button id="reset" class="btn"><i class="icon-fast-backward"></i></button>
+
+<table id="dashboard-container">
+
+    <!-- header row -->
+    <tr>
+        <th></th>
+        <th><%- data.labels.getLabel('[Faith]') %></th>
+        <th><%- data.labels.getLabel('[Fruit]') %></th>
+        <th><%- data.labels.getLabel('[Outcome]') %></th>
+    </tr>
+    
+    <!-- win -->
+    <tr>
+        <th><%- data.labels.getLabel('[Win]') %></th>
+        <td class="graphs" id="faith-win"><!-- faith --></td>
+        <td class="graphs" id="fruits-win"><!-- fruits --></td>
+        <td class="graphs" id="outcome" rowspan="3"><!-- outcome --></td>
+    </tr>
+
+    <!-- build -->
+    <tr>
+        <th><%- data.labels.getLabel('[Build]') %></th>
+        <td class="graphs" id="faith-build"><!-- faith --></td>
+        <td class="graphs" id="fruits-build"><!-- fruits --></td>
+        <!-- outcome continued -->
+    </tr>
+
+    <!-- send -->
+    <tr>
+        <th><%- data.labels.getLabel('[Send]') %></th>
+        <td class="graphs" id="faith-send"><!-- faith --></td>
+        <td class="graphs" id="fruits-send"><!-- fruits --></td>
+        <!-- outcome continued -->
+    </tr>
+    
+</table>
+
+
+
+<!-- node & date selection dialog box -->
+<div class="modal" id="node-selector" style="display:none" role="dialog">
+    <div class="modal-header">
+        <div class="loading">
+            <img src="/theme/default/images/loading.gif" />
+            <i><%- data.labels.getLabel('[loading from GMA...]') %></i>
+        </div>
+        <h3><%- data.labels.getLabel('[Select Measurements]') %></h3>
+    </div>
+    <div class="modal-body">
+    
+        <div class="sub-panel" id="choose-date-range">
+            <h2><%- data.labels.getLabel('[Date Range]') %></h2>
+            <% 
+                // Set the start date to 6 months prior to the present time
+                var startDate = new Date();
+                startDate.setMonth( startDate.getMonth() - 6 );
+                var startString = ''
+                    + (startDate.getFullYear()) + '-' 
+                    + (startDate.getMonth()+1) + '-'
+                    + (startDate.getDate());
+            %>
+            <input type="text" id="date-start" value="<%- startString %>" />
+            <input type="text" id="date-end" />
+            <button class="btn"><i class="icon-ok"></i></button>
+        </div>
+        
+        <div class="sub-panel" id="choose-node">
+            <h2><%- data.labels.getLabel('[Choose Node]') %></h2>
+            <select id="node-list">
+                <option value="">--</option>
+            </select>
+        </div>
+        
+        <div class="sub-panel" id="choose-mcc">
+            <h2><%- data.labels.getLabel('[Choose MCC]') %></h2>
+            <select id="mcc-list">
+                <option value="">--</option>
+            </select>
+        </div>
+        
+    </div>
+</div>
