@@ -48,7 +48,7 @@ var authenticate = function(req, res, next)
             if (data.match('CAS Authentication failed')) {
                 log(req,'GMA authenticated failed');
                 logDump(req, data);
-                AD.Comm.Service.sendError(req, res, { errorMSG: "CAS authentication failed with GMA server" });
+                AD.Comm.Service.sendError(req, res, { errorMSG: "CAS authentication failed with GMA server" }, 200);
             } else {
                 log(req, 'Authenticated with GMA');
                 next();
@@ -58,7 +58,7 @@ var authenticate = function(req, res, next)
         	AD.Comm.Service.sendError(req, res, {
         	   errorMSG: "Problem communicating with the GMA server",
         	   data: err
-        	});
+        	}, 200);
         	log(req, 'Problem communicating with the GMA server');
         	logDump(req, err);
         }
