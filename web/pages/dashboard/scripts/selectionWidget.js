@@ -254,6 +254,7 @@
                         .fail(function(err) {
                             self.panelIndex = oldIndex;
                             self.subPanels[oldIndex].fadeIn();
+                            self.failure(err);
                         })
                 }
             }
