@@ -296,7 +296,7 @@
                 .each(function() {
                     var dp = $(this).data('kendoDatePicker');
                     if (dp) {
-                        dp.val('');
+                        dp.value('');
                         dp.enable(true);
                     }
                 });
