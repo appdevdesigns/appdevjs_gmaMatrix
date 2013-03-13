@@ -102,3 +102,159 @@ msgstr "Use the button below to select a different report"
 #. key: [Reselect]
 msgid "Reselect"
 msgstr "Reselect"
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [Submit]
+msgid "Submit"
+msgstr "Submit"
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [Dashboard]
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#. path: /page/gmaMatrix/matrix
+#. code: en
+#. key: [Graphs]
+msgid "Graphs"
+msgstr "Graphs"
+
+#. path: /page/gmaMatrix/graphs
+#. code: en
+#. key: [GMA Measurement Graphs]
+msgid "GMA Measurement Graphs"
+msgstr "GMA Measurement Graphs"
+
+#. path: /page/gmaMatrix/graphs
+#. code: en
+#. key: [Data Entry Page]
+msgid "Data Entry Page"
+msgstr "Data Entry Page"
+
+#. path: /page/gmaMatrix/graphs
+#. code: en
+#. key: [Dashboard]
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#. path: /page/gmaMatrix/graphs
+#. code: en
+#. key: [Select Measurements]
+msgid "Select Measurements"
+msgstr "Select Measurements"
+
+#. path: /page/gmaMatrix/graphs
+#. code: en
+#. key: [Date Range]
+msgid "Date Range"
+msgstr "Date Range"
+
+#. path: /page/gmaMatrix/graphs
+#. code: en
+#. key: [Choose Node]
+msgid "Choode Node"
+msgstr "Choose Node"
+
+#. path: /page/gmaMatrix/graphs
+#. code: en
+#. key: [Choose MCC]
+msgid "Choode Strategy"
+msgstr "Choose Strategy"
+
+#. path: /page/gmaMatrix/graphs
+#. code: en
+#. key: [Choose Measurements]
+msgid "Choode Measurements"
+msgstr "Choose Measurements"
+
+#. path: /page/gmaMatrix/graphs
+#. code: en
+#. key: [loading from GMA...]
+msgid "loading from GMA..."
+msgstr "loading from GMA..."
+
+#. path: /page/gmaMatrix/dashboard
+#. code: en
+#. key: [GMA Dashboard]
+msgid "GMA Dashboard"
+msgstr "GMA Dashboard"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: en
+#. key: [Faith]
+msgid "Faith"
+msgstr "Faith"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: en
+#. key: [Fruit]
+msgid "Fruit"
+msgstr "Fruit"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: en
+#. key: [Outcome]
+msgid "Outcome"
+msgstr "Outcome"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: en
+#. key: [Win]
+msgid "Win"
+msgstr "Win"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: en
+#. key: [Build]
+msgid "Build"
+msgstr "Build"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: en
+#. key: [Send]
+msgid "Send"
+msgstr "Send"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: en
+#. key: [Data Entry Page]
+msgid "Data Entry Page"
+msgstr "Data Entry Page"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: en
+#. key: [Graphs]
+msgid "Graphs"
+msgstr "Graphs"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: en
+#. key: [Select Measurements]
+msgid "Select Measurements"
+msgstr "Select Measurements"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: en
+#. key: [Date Range]
+msgid "Date Range"
+msgstr "Date Range"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: en
+#. key: [Choose Node]
+msgid "Choode Node"
+msgstr "Choose Node"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: en
+#. key: [Choose MCC]
+msgid "Choode Strategy"
+msgstr "Choose Strategy"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: en
+#. key: [loading from GMA...]
+msgid "loading from GMA..."
+msgstr "loading from GMA..."

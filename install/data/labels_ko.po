@@ -82,23 +82,179 @@ msgstr "[ko] Select Report"
 #. path: /page/gmaMatrix/matrix
 #. code: ko
 #. key: [Data submitted]
-msgid "[ko] Data submitted to GMA. If you like you can still make changes and submit them again."
+msgid "Data submitted to GMA. If you like you can still make changes and submit them again."
 msgstr "[ko] Data submitted to GMA. If you like you can still make changes and submit them again."
 
 #. path: /page/gmaMatrix/matrix
 #. code: ko
 #. key: [Resubmit]
-msgid "[ko] Resubmit"
+msgid "Resubmit"
 msgstr "[ko] Resubmit"
 
 #. path: /page/gmaMatrix/matrix
 #. code: ko
 #. key: [Select different date]
-msgid "[ko] Use the button below to select a different report"
+msgid "Use the button below to select a different report"
 msgstr "[ko] Use the button below to select a different report"
 
 #. path: /page/gmaMatrix/matrix
 #. code: ko
 #. key: [Reselect]
-msgid "[ko] Reselect"
+msgid "Reselect"
 msgstr "[ko] Reselect"
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [Submit]
+msgid "Submit"
+msgstr "[ko] Submit"
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [Dashboard]
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#. path: /page/gmaMatrix/matrix
+#. code: ko
+#. key: [Graphs]
+msgid "Graphs"
+msgstr "Graphs"
+
+#. path: /page/gmaMatrix/graphs
+#. code: ko
+#. key: [GMA Measurement Graphs]
+msgid "GMA Measurement Graphs"
+msgstr "[ko] GMA Measurement Graphs"
+
+#. path: /page/gmaMatrix/graphs
+#. code: ko
+#. key: [Data Entry Page]
+msgid "Data Entry Page"
+msgstr "[ko] Data Entry Page"
+
+#. path: /page/gmaMatrix/graphs
+#. code: ko
+#. key: [Dashboard]
+msgid "Dashboard"
+msgstr "[ko] Dashboard"
+
+#. path: /page/gmaMatrix/graphs
+#. code: ko
+#. key: [Select Measurements]
+msgid "Select Measurements"
+msgstr "[ko] Select Measurements"
+
+#. path: /page/gmaMatrix/graphs
+#. code: ko
+#. key: [Date Range]
+msgid "Date Range"
+msgstr "[ko] Date Range"
+
+#. path: /page/gmaMatrix/graphs
+#. code: ko
+#. key: [Choose Node]
+msgid "Choode Node"
+msgstr "[ko] Choose Node"
+
+#. path: /page/gmaMatrix/graphs
+#. code: ko
+#. key: [Choose MCC]
+msgid "Choode Strategy"
+msgstr "[ko] Choose Strategy"
+
+#. path: /page/gmaMatrix/graphs
+#. code: ko
+#. key: [Choose Measurements]
+msgid "Choode Measurements"
+msgstr "[ko] Choose Measurements"
+
+#. path: /page/gmaMatrix/graphs
+#. code: ko
+#. key: [loading from GMA...]
+msgid "loading from GMA..."
+msgstr "[ko] loading from GMA..."
+
+#. path: /page/gmaMatrix/dashboard
+#. code: ko
+#. key: [GMA Dashboard]
+msgid "GMA Dashboard"
+msgstr "[ko] GMA Dashboard"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: ko
+#. key: [Faith]
+msgid "Faith"
+msgstr "[ko] Faith"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: ko
+#. key: [Fruit]
+msgid "Fruit"
+msgstr "[ko] Fruit"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: ko
+#. key: [Outcome]
+msgid "Outcome"
+msgstr "[ko] Outcome"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: ko
+#. key: [Win]
+msgid "Win"
+msgstr "[ko] Win"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: ko
+#. key: [Build]
+msgid "Build"
+msgstr "[ko] Build"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: ko
+#. key: [Send]
+msgid "Send"
+msgstr "[ko] Send"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: ko
+#. key: [Data Entry Page]
+msgid "Data Entry Page"
+msgstr "[ko] Data Entry Page"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: ko
+#. key: [Graphs]
+msgid "Graphs"
+msgstr "[ko] Graphs"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: ko
+#. key: [Select Measurements]
+msgid "Select Measurements"
+msgstr "[ko] Select Measurements"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: ko
+#. key: [Date Range]
+msgid "Date Range"
+msgstr "[ko] Date Range"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: ko
+#. key: [Choose Node]
+msgid "Choode Node"
+msgstr "[ko] Choose Node"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: ko
+#. key: [Choose MCC]
+msgid "Choode Strategy"
+msgstr "[ko] Choose Strategy"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: ko
+#. key: [loading from GMA...]
+msgid "loading from GMA..."
+msgstr "[ko] loading from GMA..."

@@ -94,11 +94,167 @@ msgstr "[zh-hans] Resubmit"
 #. path: /page/gmaMatrix/matrix
 #. code: zh-hans
 #. key: [Select different date]
-msgid "[zh-hans] Use the button below to select a different report"
+msgid "Use the button below to select a different report"
 msgstr "[zh-hans] Use the button below to select a different report"
 
 #. path: /page/gmaMatrix/matrix
 #. code: zh-hans
 #. key: [Reselect]
-msgid "[zh-hans] Reselect"
+msgid "Reselect"
 msgstr "[zh-hans] Reselect"
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [Submit]
+msgid "Submit"
+msgstr "[zh-hans] Submit"
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [Dashboard]
+msgid "Dashboard"
+msgstr "[zh-hans] Dashboard"
+
+#. path: /page/gmaMatrix/matrix
+#. code: zh-hans
+#. key: [Graphs]
+msgid "Graphs"
+msgstr "[zh-hans] Graphs"
+
+#. path: /page/gmaMatrix/graphs
+#. code: zh-hans
+#. key: [GMA Measurement Graphs]
+msgid "GMA Measurement Graphs"
+msgstr "[zh-hans] GMA Measurement Graphs"
+
+#. path: /page/gmaMatrix/graphs
+#. code: zh-hans
+#. key: [Data Entry Page]
+msgid "Data Entry Page"
+msgstr "[zh-hans] Data Entry Page"
+
+#. path: /page/gmaMatrix/graphs
+#. code: zh-hans
+#. key: [Dashboard]
+msgid "Dashboard"
+msgstr "[zh-hans] Dashboard"
+
+#. path: /page/gmaMatrix/graphs
+#. code: zh-hans
+#. key: [Select Measurements]
+msgid "Select Measurements"
+msgstr "[zh-hans] Select Measurements"
+
+#. path: /page/gmaMatrix/graphs
+#. code: zh-hans
+#. key: [Date Range]
+msgid "Date Range"
+msgstr "[zh-hans] Date Range"
+
+#. path: /page/gmaMatrix/graphs
+#. code: zh-hans
+#. key: [Choose Node]
+msgid "Choode Node"
+msgstr "[zh-hans] Choose Node"
+
+#. path: /page/gmaMatrix/graphs
+#. code: zh-hans
+#. key: [Choose MCC]
+msgid "Choode Strategy"
+msgstr "[zh-hans] Choose Strategy"
+
+#. path: /page/gmaMatrix/graphs
+#. code: zh-hans
+#. key: [Choose Measurements]
+msgid "Choode Measurements"
+msgstr "[zh-hans] Choose Measurements"
+
+#. path: /page/gmaMatrix/graphs
+#. code: zh-hans
+#. key: [loading from GMA...]
+msgid "loading from GMA..."
+msgstr "[zh-hans] loading from GMA..."
+
+#. path: /page/gmaMatrix/dashboard
+#. code: zh-hans
+#. key: [GMA Dashboard]
+msgid "GMA Dashboard"
+msgstr "[zh-hans] GMA Dashboard"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: zh-hans
+#. key: [Faith]
+msgid "Faith"
+msgstr "[zh-hans] Faith"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: zh-hans
+#. key: [Fruit]
+msgid "Fruit"
+msgstr "[zh-hans] Fruit"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: zh-hans
+#. key: [Outcome]
+msgid "Outcome"
+msgstr "[zh-hans] Outcome"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: zh-hans
+#. key: [Win]
+msgid "Win"
+msgstr "[zh-hans] Win"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: zh-hans
+#. key: [Build]
+msgid "Build"
+msgstr "[zh-hans] Build"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: zh-hans
+#. key: [Send]
+msgid "Send"
+msgstr "[zh-hans] Send"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: zh-hans
+#. key: [Data Entry Page]
+msgid "Data Entry Page"
+msgstr "[zh-hans] Data Entry Page"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: zh-hans
+#. key: [Graphs]
+msgid "Graphs"
+msgstr "[zh-hans] Graphs"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: zh-hans
+#. key: [Select Measurements]
+msgid "Select Measurements"
+msgstr "[zh-hans] Select Measurements"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: zh-hans
+#. key: [Date Range]
+msgid "Date Range"
+msgstr "[zh-hans] Date Range"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: zh-hans
+#. key: [Choose Node]
+msgid "Choode Node"
+msgstr "[zh-hans] Choose Node"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: zh-hans
+#. key: [Choose MCC]
+msgid "Choode Strategy"
+msgstr "[zh-hans] Choose Strategy"
+
+#. path: /page/gmaMatrix/dashboard
+#. code: zh-hans
+#. key: [loading from GMA...]
+msgid "loading from GMA..."
+msgstr "[zh-hans] loading from GMA..."
