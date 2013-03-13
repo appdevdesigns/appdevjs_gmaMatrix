@@ -138,7 +138,7 @@ gmaClientGetNodeData.setup = function(app) {
             logDump(req);
 	    })
 	    .fail(function(err) {
-	        AD.Comm.service.sendError(req, res, err, 200);
+	        AD.Comm.Service.sendError(req, res, err, 200);
 	        logDump(req);
 	    });
 	    
